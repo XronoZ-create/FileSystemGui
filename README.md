@@ -14,7 +14,7 @@
 
 ## Quick Start
 ```
-git clone https://github.com/XronoZ-create/Insurance_ControlMicroservices.git
+git clone https://github.com/XronoZ-create/FileSystemGui.git
 
 py -3.9 update_bot.py
 ```
